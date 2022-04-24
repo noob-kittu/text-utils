@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://telegra.ph/file/ee6c93627b6f1625439ad.png" width="80%">
+
+</p>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
